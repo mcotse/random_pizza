@@ -1,0 +1,29 @@
+Number of requests	5,671
+Timespan	December 8, 2010 - September 29, 2013
+Average success rate	24.6%
+
+Characteristics outlined by paper:
+ - gradtitude
+  - no evidence politeness has statistically significant impact
+ - Reciprocity
+  - returning the favour
+ - urgency
+  - in need
+ - status
+  - higher status = more likely
+ - sentiment
+  - no correlation
+ - simlarity
+  - no correlation
+
+Number of requests scraped: 980
+
+possible untapped correlation:
+ - user name?
+
+find out filfulment status:
+ - edit: fulfilled, thank you
+ - comment: fulfilled by
+
+ requests with more than 1 comment besides the ones from the bots and has flair 'recipient' = 273
+ % = 0.29
